@@ -1,0 +1,1 @@
+{"type":"module","name":"kurstapsiriq","version":"1.0.0","description":"","main":"Starwars.js","scripts":{"star":"nodemon Starwars.js"},"keywords":[],"author":"","license":"ISC","dependencies":{"express":"^4.18.2","inquirer":"^9.2.6","nodemon":"^2.0.22"}}
